@@ -1,0 +1,9 @@
+https://peps.python.org/pep-0008/
+https://peps.python.org/pep-0257/
+https://www.python.org/psf/mission/
+https://docs.python.org/id/3.8/tutorial/introduction.html
+https://docs.python.org/id/3.8/library/stdtypes.html
+https://docs.python.org/id/3.8/reference/datamodel.html#the-standard-type-hierarchy
+https://docs.python.org/id/3.8/library/string.html#format-string-syntax
+https://docs.python.org/3/reference/lexical_analysis.html#literals
+https://docs.python.org/id/3.8/installing/index.html
